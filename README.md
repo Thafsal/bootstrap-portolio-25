@@ -2,7 +2,7 @@
 THAFSAL AFREEDH PORTFOLIO
 
 # Hosted Link
-
+https://enchanting-pixie-4ba10a.netlify.app/
 
 This is a portolio website which is responsive and its completely bult on top of Bootstrap
 ## Features
